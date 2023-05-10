@@ -15,7 +15,7 @@
  * @returns {number[][]} Matrix of numbers with the amount of mines surrounding each cell
  */
 
-export const minesweeper = (matrix) => {
+export const minesweeper sdfsfs= (matrix) => {
   const arrResult = []
   for (let x = 0; x < matrix.length; x++) {
     const arrLine = []
